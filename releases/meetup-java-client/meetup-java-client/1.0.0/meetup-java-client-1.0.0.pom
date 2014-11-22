@@ -10,7 +10,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<name>meetup-java-client</name>
-	<url>https://github.com/SaifJerbi/Meetup-Java-Client</url>
+	<url>https://github.com/Vaadin-Tunis-Meetup-Group/Meetup-Java-Client</url>
 	<groupId>meetup-java-client</groupId>
 	<artifactId>meetup-java-client</artifactId>
 	<packaging>jar</packaging>
@@ -20,32 +20,32 @@
 		<name>Vaadin Tunis</name>
 		<url>http://www.meetup.com/Vaadin-tunis</url>
 	</organization>
-	<inceptionYear>2008</inceptionYear>
+	<inceptionYear>2014</inceptionYear>
 
 	<issueManagement>
-		<url>https://github.com/SaifJerbi/Meetup-Java-Client/issues</url>
+		<url>https://github.com/Vaadin-Tunis-Meetup-Group/Meetup-Java-Client/issues</url>
 	</issueManagement>
 
 	<repositories>
 		<repository>
-			<id>SaifJerbi-releases</id>
-			<url>https://raw.githubusercontent.com/SaifJerbi/mvn-repo/master/releases</url>
+			<id>Vaadin-Tunis-repository</id>
+			<url>https://raw.githubusercontent.com/Vaadin-Tunis-Meetup-Group/vaadin-tunis-mvn-repository/master/releases</url>
 		</repository>
 	</repositories>
 
 	<distributionManagement>
 		<repository>
 			<id>repo</id>
-			<url>https://github.com/SaifJerbi/mvn-repo.git/raw/master/releases</url>
+			<url>https://github.com/Vaadin-Tunis-Meetup-Group/mvn-repo.git/raw/master/releases</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshot-repo</id>
-			<url>https://github.com/SaifJerbi/mvn-repo.git/raw/master/snapshots</url>
+			<url>https://github.com/Vaadin-Tunis-Meetup-Group/mvn-repo.git/raw/master/snapshots</url>
 		</snapshotRepository>
 	</distributionManagement>
 
 	<scm>
-		<url>https://github.com/SaifJerbi/Meetup-Java-Client.git</url>
+		<url>https://github.com/Vaadin-Tunis-Meetup-Group/Meetup-Java-Client.git</url>
 	</scm>
 
 	<developers>
