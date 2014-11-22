@@ -12,8 +12,8 @@
 	<name>OAuth Core: Consumer</name>
 	<repositories>
 		<repository>
-			<id>SaifJerbi-releases</id>
-			<url>https://raw.githubusercontent.com/SaifJerbi/mvn-repo/master/releases</url>
+			<id>Vaadin-Tunis-Meetup-Group-releases</id>
+			<url>https://raw.githubusercontent.com/Vaadin-Tunis-Meetup-Group/mvn-repo/master/releases</url>
 		</repository>
 	</repositories>
 	<dependencies>
@@ -27,11 +27,11 @@
 	<distributionManagement>
 		<repository>
 			<id>repo</id>
-			<url>https://github.com/SaifJerbi/mvn-repo.git/raw/master/releases</url>
+			<url>https://github.com/Vaadin-Tunis-Meetup-Group/mvn-repo.git/raw/master/releases</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshot-repo</id>
-			<url>https://github.com/SaifJerbi/mvn-repo.git/raw/master/snapshots</url>
+			<url>https://github.com/Vaadin-Tunis-Meetup-Group/mvn-repo.git/raw/master/snapshots</url>
 		</snapshotRepository>
 	</distributionManagement>
 </project>
